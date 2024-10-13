@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.2.4 (2024-10-13)
+
+
+### Tests
+
+* Update tests.yml with format code checking by flake8 ([8b27847](https://github.com/jcaste05/versioning-workflow/commit/8b2784743de2ae45e2807a2ccb84b38e98b20032))
+
 ### 1.2.3 (2024-10-13)
 
 
