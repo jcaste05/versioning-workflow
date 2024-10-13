@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.2.1 (2024-10-13)
+
+
+### Bugs fixed
+
+* fix the code of mult ([8c681f2](https://github.com/jcaste05/versioning-workflow/commit/8c681f23f29b4aa067929171cc634a5eb7ffc8e2))
+
 ## 1.2.0 (2024-10-13)
 
 
