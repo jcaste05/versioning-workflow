@@ -1,6 +1,6 @@
 {
   "name": "versioning-workflow",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "In this repository, automatic versioning is implemented through the use of conventional commits. Also, the use of GitHub actions is exemplified to verify code writing standards and the use of unit tests.",
   "main": "index.js",
   "scripts": {

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.2.0 (2024-10-13)
+
+
+### Features
+
+* operation mult added and its test ([d4db980](https://github.com/jcaste05/versioning-workflow/commit/d4db980b0e44911906796306fbadb5c1e2b9c128))
+
 ### 1.1.2 (2024-10-13)
 
 
