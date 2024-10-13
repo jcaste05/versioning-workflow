@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.0.2 (2024-10-13)
+
+
+### Small changes
+
+* Create release.yml to automate versioning ([360c007](https://github.com/jcaste05/versioning-workflow/commit/360c007696042cb449e3ecac893489a50f637e8e))
+
 ### 1.0.1 (2024-10-13)
 
 
