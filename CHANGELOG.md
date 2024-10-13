@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.1.1 (2024-10-13)
+
+
+### Tests
+
+* test_calculator.py created to test function called sum in calculator ([b034512](https://github.com/jcaste05/versioning-workflow/commit/b0345127a10a88e0f075704beb3981445fe3af4c))
+
 ## 1.1.0 (2024-10-13)
 
 
