@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.2.3 (2024-10-13)
+
+
+### Small changes
+
+* formating code with black ([c0cedf1](https://github.com/jcaste05/versioning-workflow/commit/c0cedf1ccfaa6942c8cd28ccbc29cf9adc467d5c))
+
 ### 1.2.2 (2024-10-13)
 
 
