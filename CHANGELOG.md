@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.3.0 (2024-10-13)
+
+
+### Features
+
+* div function added ([7e36c71](https://github.com/jcaste05/versioning-workflow/commit/7e36c7143f0bc030bd922344d82ca5dc859b1ca5))
+
 ### 1.2.4 (2024-10-13)
 
 
