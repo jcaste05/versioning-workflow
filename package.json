@@ -1,0 +1,24 @@
+{
+  "name": "versioning-workflow",
+  "version": "1.0.0",
+  "description": "In this repository, automatic versioning is implemented through the use of conventional commits. Also, the use of GitHub actions is exemplified to verify code writing standards and the use of unit tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcaste05/versioning-workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcaste05/versioning-workflow/issues"
+  },
+  "homepage": "https://github.com/jcaste05/versioning-workflow#readme",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}

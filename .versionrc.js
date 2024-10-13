@@ -1,0 +1,1 @@
+module.exports = { types: [{ type: 'feat', section: 'Features'}, { type: 'fix', section: 'Bugs fixed'}, { type: 'BREAKING CHANGE', section: 'Major changes'}, { type: 'chore', 'section': 'Small changes'}, { type: 'docs', section: 'Documentation'}, { type: 'test', section: 'Tests'}] };
