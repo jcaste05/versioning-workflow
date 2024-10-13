@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.1.2 (2024-10-13)
+
+
+### Tests
+
+* Create tests.yml to automate tests with GitHub Action ([edda795](https://github.com/jcaste05/versioning-workflow/commit/edda795ac27ba053800f8efd7859f3d0ceb1d9cb))
+
 ### 1.1.1 (2024-10-13)
 
 
