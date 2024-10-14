@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.3.3 (2024-10-14)
+
+
+### Documentation
+
+* **readme:** Update README.md ([986ea50](https://github.com/jcaste05/versioning-workflow/commit/986ea50f346518ed8d23556c6f8ae5e77e8f6367))
+
 ### 1.3.2 (2024-10-14)
 
 
