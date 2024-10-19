@@ -238,3 +238,5 @@ In this repository, automatic versioning is implemented through the use of conve
 
 
 ## Examples of conventional commits
+The general basic structure for a conventional commit is x(scope): description where:
+- x denote the kind of the change. For example: fix, feature, docs, style...
